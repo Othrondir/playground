@@ -78,7 +78,7 @@ sudo pacman -Syu
 ##  5-Desktop environment
 Using install script (Clone the repository).
 ```
-git clone -b v3 --depth 1 https://www.github.com/Othrondir/dotfiles-2.git
+git clone https://www.github.com/Othrondir/dotfiles-2.git
 cd dotfiles
 chmod +x install-on-arch.sh
 ./install-on-arch.sh
